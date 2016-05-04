@@ -1,0 +1,4 @@
+
+
+class PuzzleNotFound(Exception):
+    pass
